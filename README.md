@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 UXterity - [hello@uxterity.com](mailto:hello@uxterity.com)
 
-Project Link: [https://github.com/yourusername/uxterity](https://github.com/yourusername/uxterity) 
+Project Link: https://uxterity.com/
